@@ -1,2 +1,3 @@
 name : vinith
 age  : 21
+degree : CSE
