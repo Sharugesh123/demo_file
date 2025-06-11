@@ -1,1 +1,2 @@
 name : vinith
+degree : CSE
